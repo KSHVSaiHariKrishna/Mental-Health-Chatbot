@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+whisper
+torchaudio
+pydub
+deep-translator
+langdetect
+contractions
+nltk
+denoiser
